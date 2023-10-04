@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667648377 source:c:\users\tanmay jain\desktop\c lang\stacks\reverse a string\main.c
+	<stdio.h>
+	<string.h>
+

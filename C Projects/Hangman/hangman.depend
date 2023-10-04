@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651649568 source:c:\users\tanmay jain\desktop\fun codes\snake game\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+

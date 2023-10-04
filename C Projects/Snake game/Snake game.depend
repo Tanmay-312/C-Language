@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651674990 source:c:\users\tanmay jain\desktop\fun codes\snake game\snake game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+

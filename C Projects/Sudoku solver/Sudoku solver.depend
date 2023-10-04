@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651660535 source:c:\users\tanmay jain\desktop\fun codes\snake game\sudoku solver\main.c
+	<stdio.h>
+	<stdlib.h>
+
